@@ -1,5 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/shubham_chitaguppe/Desktop/Research Paper RAG app/research/bin/python3.13" "$0" "$@" #'''
+#!/Users/shubham_chitaguppe/Desktop/RAG-based-Research-paper-summarization-development/research/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys

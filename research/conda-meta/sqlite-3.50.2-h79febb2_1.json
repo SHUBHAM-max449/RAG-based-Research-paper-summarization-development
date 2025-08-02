@@ -4,10 +4,10 @@
   "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
   "constrains": [],
   "depends": [
-    "__osx >=11.1",
-    "ncurses >=6.4,<7.0a0",
-    "readline >=8.1.2,<9.0a0",
     "zlib >=1.2.13,<1.3.0a0",
+    "__osx >=11.1",
+    "readline >=8.1.2,<9.0a0",
+    "ncurses >=6.4,<7.0a0",
     "zlib >=1.2.13,<2.0a0"
   ],
   "extracted_package_dir": "/opt/anaconda3/pkgs/sqlite-3.50.2-h79febb2_1",
@@ -78,7 +78,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_04lf4909tx/croot/sqlite_1752773580526/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
         "sha256": "40dc7e5810ce5ddba5681853c39d60a588528a669f1f7854da9f58d4713ab372",
-        "sha256_in_prefix": "08160a857e7a27cffed0f1faed8d788c7fe2e87e5e7c1fc5655498ac12ce396e",
+        "sha256_in_prefix": "7845c59e582482daeab88c7fa68458280313905a2956a61eb27155d43fe2f9bf",
         "size_in_bytes": 513
       },
       {
